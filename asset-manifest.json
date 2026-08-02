@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_cra_practice/static/css/main.aa067d55.css",
+    "main.js": "/react_cra_practice/static/js/main.7bf0493f.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/react_cra_practice/static/js/453.fd2f0c4a.chunk.js",
+    "index.html": "/react_cra_practice/index.html",
+    "main.aa067d55.css.map": "/react_cra_practice/static/css/main.aa067d55.css.map",
+    "main.7bf0493f.js.map": "/react_cra_practice/static/js/main.7bf0493f.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/react_cra_practice/static/js/453.fd2f0c4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa067d55.css",
+    "static/js/main.7bf0493f.js"
+  ]
+}

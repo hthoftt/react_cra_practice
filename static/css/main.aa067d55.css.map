@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f4e32846.css","mappings":"AAAA,cACI,aACA,iBAGJ,WAEI,YACA,iBAFA,UAEA","sources":["scss/all.scss"],"sourcesContent":[".card-img-top{\r\n    height: 200px;\r\n    object-fit: cover;\r\n}\r\n\r\n.table-img{\r\n    width: 75px;\r\n    height: 75px;\r\n    object-fit: cover;\r\n}"],"names":[],"sourceRoot":""}
